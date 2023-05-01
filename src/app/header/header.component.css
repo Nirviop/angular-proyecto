@@ -1,0 +1,23 @@
+h1{
+    background-image: linear-gradient(170deg, #ffffff, #53cbff, #ffff9b);
+    background-size: 100%;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+#facebook{
+    margin-right: 10px;
+}
+
+#twitter{
+    margin-right: 10px;
+}
+
+#mail{
+    margin-right: 10px;
+}
+
+#instagram{
+    margin-right: 10px;
+}
